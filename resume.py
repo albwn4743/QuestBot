@@ -3,7 +3,7 @@ from groq import Groq
 # from openai import OpenAI
 import json
 import os
-client = Groq(api_key="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")
+client = Groq(api_key="")
 
 
 def extract_text(pdf_path):
